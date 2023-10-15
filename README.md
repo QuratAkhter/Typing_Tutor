@@ -1,2 +1,3 @@
-# Typing_Tutor
-This Project is for checking your typing speed. Also check the errors in your typing and how much you are efficient in typing.
+**C Typing Tutor Program Overview:**
+
+This C program serves as a typing tutor, offering users the opportunity to assess their typing speed, accuracy, and error count. It features a timer and a function to check the accuracy of typed paragraphs against a dictionary. The program records start and end times, calculates typing speed, and highlights matched letters and mistakes. However, it relies on non-standard and platform-specific functions like `gets` and `conio.h`, which may compromise safety and portability. To enhance the program, adopting modern coding practices is advisable for improved security and cross-platform compatibility.
